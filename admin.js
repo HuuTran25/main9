@@ -87,4 +87,3 @@ function deletec2(room,id) {
   console.log('Lỗi')
 })
 }
-KC326
